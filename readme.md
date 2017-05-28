@@ -26,12 +26,12 @@
 
 X 1. Change the background color of the entire document to red
 X 2. Change the background color of just the "about me" portion to blue
-3. Change the font-style of the entire document to sans-serif
+X 3. Change the font-style of the entire document to sans-serif
 X 4. Add your nickname 
 X 5. Add your favorites
 X 6. Add your hometown
 
 ## Extra Credit (still only using JavaScript) ##
 
-1. Iterate through each li and change the class to "listitem". Add a style tag that sets a rule for "listitem" to make the color red.
-2. Create a new `img` element and set its src attribute to a picture of you. Append that element to the page.
+X 1. Iterate through each li and change the class to "listitem". Add a style tag that sets a rule for "listitem" to make the color red.
+X 2. Create a new `img` element and set its src attribute to a picture of you. Append that element to the page.
